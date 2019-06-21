@@ -124,7 +124,8 @@ color:#fff;
 footer a 
 {
 font-family:'Open Sans';
-font-weight:700italic;
+font-weight:700;
+font-style:italic;
 font-size:1em;
 color:#ffed53;
 text-decoration:none;
